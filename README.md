@@ -1,1 +1,0 @@
-# devops-training-pipeline-deploy
